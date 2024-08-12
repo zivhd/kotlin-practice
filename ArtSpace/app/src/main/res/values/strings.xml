@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_1_title">MRT</string>
+    <string name="image_1_author">Ziv Rodriguez</string>
+    <string name="image_1_year">2019</string>
+    <string name="image_1_cd">MRT by Ziv Rodriguez, 2019</string>
+    <string name="image_2_title">Mirror</string>
+    <string name="image_2_author">Ziv Rodriguez</string>
+    <string name="image_2_year">2022</string>
+    <string name="image_2_cd">Mirror by Ziv Rodriguez, 2022</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
